@@ -1,3 +1,4 @@
+# 采集10秒的视频
 import cv2
 camera_capture = cv2.VideoCapture(0)
 fps = 30
